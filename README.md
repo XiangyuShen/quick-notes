@@ -2,6 +2,7 @@
 
 A simple note-taking application that uses browser local storage for persistence.
 
+Deployed at https://xshen-quicknotes.netlify.app/.
 
 ## Run Locally
 
