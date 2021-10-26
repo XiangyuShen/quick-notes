@@ -1,6 +1,6 @@
 # QuickNote App
 
-A simple note-taking application that uses browser local storage for persistence.
+A simple note-taking React application that uses browser local storage for persistence.
 
 Deployed at https://xshen-quicknotes.netlify.app/.
 
